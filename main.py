@@ -4,21 +4,45 @@
 # Problem 1
 """
 1. first_name, is a valid name in python, because it is snake case, which is when we use '_' instead of spaces between words.
-2. 
-3.
-Your solution goes here
+2. 2nd_name is invalid because begins with a number instead of a letter.
+3. age is valid because it uses all letters and is not a reserved string.
+4. total_amount is valid because it uses letters and is in snake case.
+5. while is invalid because it is a reserved string for statements.
+6. Student is a valid name because it uses all letters.
+7. my-variable is an invalid name because it does not use a '_' as a space between words.
+8. for is invalid because it is a reserved string for statements.
+9. _temp is valid, but it is not conventional to use underscores at the beginning of a name.
+10. value# is invalid because it uses a character other than alphanumeric characters or underscores.
 
 
 """
 # Problem 2
 """
-Your solution goes here
+1. calculate_total is valid
+2. 3rd_function is not valid because it starts with a number and function names can only start with letters or underscores.
+3. print_values is valid
+4. find-item is not valid because it does not use an underscore as spaces between words.
+5. def is not valid because it is a reserved string for function statements
+6. updateProfile is valid
+7. my_function is valid
+8. try is valid
+9. init_data
+10. value@function is not valid because it uses characters that are not numbers, letters, or underscores
 
 
 """
 # Problem 3
 """
-Your solution goes here
+1. the expression is not valid because both sides of the boolean operator and must be equivalent truth values, which true and false are not
+2. invalid, 
+3. invalid, 
+4. valid
+5. invalid
+6. valid
+7. valid
+8. valid
+9. invalid
+10. invalid 
 
 
 """
